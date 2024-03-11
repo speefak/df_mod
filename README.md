@@ -2,7 +2,7 @@
      Usage: $(basename $0) <option>
 
      -h, --help      	display help
-     -v, --version   	display version
+     -v, --verbose   	display all filesystems
      -m, --monochrome	disable color
      -l, --listconfig	show configuration
      -c, --configure 	create new configuration
