@@ -89,8 +89,8 @@ configure_dialog () {
 		FrameColor="1"
 		ColumnHeaderColor="2"
 		ColumnSumaryColor="3"
-		GraphThresholdLow="59"
-		GraphThresholdMid="89"
+		GraphThresholdLow="59"					# 59% - 5% GraphRoundThreshold => 54%
+		GraphThresholdMid="95"					# 95% - 5% GraphRoundThreshold => 90%
 		GraphThresholdHigh="100"
 		GraphRoundThreshold="5"
 		GraphColorLow="2"
